@@ -1,5 +1,5 @@
 #data
-file="repos"
+file="repos2"
 #read the file into an array
 lines=`cat $file`
 #loop
